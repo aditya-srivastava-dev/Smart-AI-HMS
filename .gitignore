@@ -1,0 +1,19 @@
+# Maven
+backend/target/
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
